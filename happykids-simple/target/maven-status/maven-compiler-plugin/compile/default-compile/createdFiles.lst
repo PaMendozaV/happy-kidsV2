@@ -1,0 +1,3 @@
+com\eventstock\happykids\HappyKidsApplication.class
+com\eventstock\happykids\model\Producto.class
+com\eventstock\happykids\controller\ApiController.class
